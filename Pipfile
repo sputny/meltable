@@ -7,6 +7,7 @@ verify_ssl = true
 
 [packages]
 meltable = {editable = true,path = "."}
+ipython = "*"
 
 [requires]
 python_version = "3.6"

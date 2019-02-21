@@ -12,7 +12,7 @@ setup(
     license="GPL2",
     entry_points={
         'console_scripts': [
-            'meltable = meltable.main.main',
+            'meltable = meltable.main',
             ]
         },
     )
